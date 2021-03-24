@@ -15,11 +15,10 @@ body{
 .navbar-brand {
   padding-top: 10px;
   position: relative;
-  left: 0px;
+  left: 10px;
 }
 
 .navbar-brand h1 { /* Restaurant name */
-  text-align: right;
   color: #ffbc02;
   text-transform: uppercase;
   font-weight: bold;
@@ -35,7 +34,7 @@ body{
  }
 .navbar-header button.navbar-toggle {/* Menu box page position*/
   clear: both;
-  margin-top: -60px;
+  margin-top: -65px;
 }
 /* END HEADER */
 #nav-list {
