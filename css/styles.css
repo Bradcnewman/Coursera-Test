@@ -13,7 +13,8 @@ body{
 }
 
 .navbar-brand {
-  margin: 10 10px;
+  margin: 0 20px;
+  padding: 10px;
   position: relative;
 }
 
